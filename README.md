@@ -14,7 +14,7 @@ Para acessar esses arquivos de extensão .tbw é necessário ter o Tableau insta
   
   - Order and Targets: Numa rede de mercados fictícia da Europa, fiz um gráfico que mostra os meses que a rede cumpriu sua meta de lucro em cada categoria de produtos.
   
-  - Startup Expansion: Caracterizações gerais das regiões as quais as lojas startup estão distribuídas, Clusterização das lojas e análise de tendência das lojas por cluster, possibilitando analisar qual dos clusters são capazes de trazer maior por dolar investido em marketing.
+  - Startup Expansion: Caracterizações gerais das regiões as quais as lojas startup estão distribuídas, Clusterização das lojas e análise de tendência das lojas por cluster, possibilitando analisar qual dos clusters são capazes de trazer maior retorno por dolar investido em marketing.
   
   - Veículos: Nos dados de uma montadora de carros fictícia, analisei o percentual de carros vendidos no mundo nos anos por região.
   
